@@ -1,7 +1,7 @@
 {
-	"name": "goat-bot-v2",
+	"name": "TsantaBotGoat",
 	"version": "1.5.29",
-	"description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
+	"description": "A simple Bot chat messenger using personal account.",
 	"main": "index.js",
 	"engines": {
 		"node": "16.x",
